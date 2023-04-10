@@ -1,0 +1,7 @@
+# Nmap 7.80 scan initiated Mon Apr 10 21:35:43 2023 as: nmap -oN /home/port.txt -p- 192.168.248.130
+Nmap scan report for 192.168.248.130
+Host is up (0.00090s latency).
+All 65535 scanned ports on 192.168.248.130 are closed
+MAC Address: 00:0C:29:9C:68:8A (VMware)
+
+# Nmap done at Mon Apr 10 21:35:50 2023 -- 1 IP address (1 host up) scanned in 7.38 seconds
